@@ -74,6 +74,3 @@ The main focus of this project is the **AI/ML engineering pipeline**, from deep 
             └────┬────┘
                  ▼
         Operator / Monitoring UI
----
-
-# System Architecture
