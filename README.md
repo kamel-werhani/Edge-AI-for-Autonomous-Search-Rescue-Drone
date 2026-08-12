@@ -1,4 +1,4 @@
-# Edge AI for Autonomous Search & Rescue
+# Edge AI for Autonomous Search & Rescue Drone
 
 > Real-time computer vision and embedded AI pipeline for autonomous human detection and geo-localization on NVIDIA Jetson edge devices.
 
@@ -74,3 +74,8 @@ The main focus of this project is the **AI/ML engineering pipeline**, from deep 
             └────┬────┘
                  ▼
         Operator / Monitoring UI
+
+AI/ML Pipeline
+
+The core computer vision pipeline follows:
+
