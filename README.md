@@ -75,7 +75,7 @@ The main focus of this project is the **AI/ML engineering pipeline**, from deep 
                  ▼
         Operator / Monitoring UI
 
-AI/ML Pipeline
+## AI/ML Pipeline
 
 The core computer vision pipeline follows:
 
